@@ -209,3 +209,9 @@ Transform’s local vs. world directions also made the CatW5 movement logic easi
 flipping controls works by multiplying the translation vector by -1.
 Working collaboratively helped me think more like a Unity developer: breaking problems down into components, 
 testing incrementally, and using Unity’s built-in systems instead of reinventing behavior.
+
+
+### W6
+
+
+
